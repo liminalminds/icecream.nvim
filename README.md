@@ -7,7 +7,7 @@
 ```lua
 require('lazy').setup({
   {
-    'liminalminds/icecream',
+    'liminalminds/icecream.nvim',
     name = 'icecream',
     lazy = false,
     priority = 1000,
